@@ -1,0 +1,83 @@
+
+result-buy-freespins.png
+size: 1108,422
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+board-total
+  rotate: false
+  xy: 2, 2
+  size: 544, 418
+  orig: 544, 418
+  offset: 0, 0
+  index: -1
+centerRibbon
+  rotate: false
+  xy: 1036, 69
+  size: 70, 91
+  orig: 70, 91
+  offset: 0, 0
+  index: -1
+coin_rotate_02
+  rotate: false
+  xy: 948, 307
+  size: 80, 113
+  orig: 80, 113
+  offset: 0, 0
+  index: -1
+coin_rotate_03
+  rotate: false
+  xy: 1030, 307
+  size: 66, 113
+  orig: 66, 113
+  offset: 0, 0
+  index: -1
+coin_rotate_04
+  rotate: false
+  xy: 1036, 162
+  size: 21, 112
+  orig: 21, 112
+  offset: 0, 0
+  index: -1
+coin_rotate_05
+  rotate: true
+  xy: 907, 9
+  size: 66, 113
+  orig: 66, 113
+  offset: 0, 0
+  index: -1
+free spins
+  rotate: false
+  xy: 548, 14
+  size: 357, 55
+  orig: 357, 55
+  offset: 0, 0
+  index: -1
+gradientLight
+  rotate: true
+  xy: 948, 276
+  size: 29, 110
+  orig: 29, 110
+  offset: 0, 0
+  index: -1
+ribbon
+  rotate: false
+  xy: 548, 273
+  size: 398, 147
+  orig: 398, 147
+  offset: 0, 0
+  index: -1
+ribbon2
+  rotate: false
+  xy: 548, 71
+  size: 293, 200
+  orig: 297, 204
+  offset: 3, 1
+  index: -1
+ring
+  rotate: false
+  xy: 843, 77
+  size: 191, 194
+  orig: 191, 194
+  offset: 0, 0
+  index: -1
