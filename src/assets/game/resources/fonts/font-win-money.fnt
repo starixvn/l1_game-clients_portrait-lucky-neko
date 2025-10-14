@@ -1,6 +1,6 @@
-info face="C:\Users	heresa.le\Downloads\font-win-money" size=45 bold=0 italic=0 charset="" unicode=0 stretchH=100 smooth=1 aa=1 padding=0,0,0,0 spacing=5,5
+info face="font-win-money" size=45 bold=0 italic=0 charset="" unicode=0 stretchH=100 smooth=1 aa=1 padding=0,0,0,0 spacing=5,5
 common lineHeight=60advanceY base=26 scaleW=128 scaleH=256 pages=1 packed=0 alphaChnl=1 redChnl=0 greenChnl=0 blueChnl=0
-page id=0 file="C:\Users	heresa.le\Downloads\font-win-money.png"
+page id=0 file="font-win-money.png"
 chars count=15
 char id=48 x=0 y=45 width=36 height=42 xoffset=0 yoffset=0 xadvance=36 page=0 chnl=0 letter="0"
 char id=49 x=73 y=45 width=22 height=40 xoffset=0 yoffset=1 xadvance=22 page=0 chnl=0 letter="1"
