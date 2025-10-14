@@ -472,6 +472,10 @@ export const languages = {
         "total_bet": "Tổng Cược",
         "total_win": "Tổng Thắng",
         "Unexpected_gift_code_error_message": "Đã xảy ra lỗi. Vui lòng thử lại sau."
+    },
+    "LuckyNeko": {
+        "game_name": "Mèo May Mắn",
+        "game_icon_name": "Mèo May Mắn"
     }
 };
 

@@ -472,6 +472,10 @@ export const languages = {
         "total_bet": "Total Taruhan",
         "total_win": "Total Menang ",
         "Unexpected_gift_code_error_message": "Terjadi kesalahan tak terduga. Silakan coba lagi nanti."
+    },
+    "LuckyNeko": {
+        "game_name": "Lucky Neko",
+        "game_icon_name": "Lucky Neko"
     }
 };
 

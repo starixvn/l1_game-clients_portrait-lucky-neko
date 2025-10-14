@@ -472,6 +472,10 @@ export const languages = {
         "total_win": "Jumlah Kemenangan",
         "Unexpected_gift_code_error_message": "Ralat tak dijangka berlaku. Sila cuba lagi kemudian.",
         "Close": "Tutup"
+    },
+    "LuckyNeko": {
+        "game_name": "Lucky Neko",
+        "game_icon_name": "Lucky Neko"
     }
 };
 
