@@ -13,8 +13,8 @@ char id=55 x=356 y=104 width=79 height=94 xoffset=0 yoffset=0 xadvance=79 page=0
 char id=56 x=181 y=0 width=84 height=99 xoffset=0 yoffset=0 xadvance=84 page=0 chnl=0 letter="8"
 char id=57 x=91 y=104 width=85 height=99 xoffset=0 yoffset=0 xadvance=85 page=0 chnl=0 letter="9"
 char id=120 x=358 y=0 width=70 height=66 xoffset=0 yoffset=30 xadvance=70 page=0 chnl=0 letter="x"
-char id=44 x=37 y=208 width=32 height=43 xoffset=0 yoffset=75 xadvance=32 page=0 chnl=0 letter="."
-char id=46 x=0 y=208 width=32 height=29 xoffset=0 yoffset=75 xadvance=32 page=0 chnl=0 letter=","
+char id=44 x=37 y=208 width=32 height=43 xoffset=0 yoffset=72 xadvance=32 page=0 chnl=0 letter="."
+char id=46 x=0 y=208 width=32 height=29 xoffset=0 yoffset=70 xadvance=32 page=0 chnl=0 letter=","
 char id=32 x=0 y=0 width=0 height=0 xoffset=0 yoffset=0 xadvance=25 page=0 chnl=0 letter=" "
 char id=9 x=0 y=0 width=0 height=0 xoffset=0 yoffset=0 xadvance=200 page=0 chnl=0 letter="	"
 
