@@ -1,7 +1,8 @@
+export const GAME_NAME = "LuckyNeko";
 export const settings = {
-    id: 139,
-    name: "Olympub",
-    tolgeeNamespaces: ["Olympub", "cascadingslot"],
+    id: 143,
+    name: GAME_NAME,
+    tolgeeNamespaces: [GAME_NAME, "cascadingslot"],
     durations: {
         wholeRound: 14,
         lockingBet: 3,
@@ -14,7 +15,7 @@ export const settings = {
     },
     isMiniGame: false,
     numberOfRoundHistory: 11,
-    observerNamespace: "Olympub",
+    observerNamespace: GAME_NAME,
     validateBalanceWhenBet: true,
 };
 

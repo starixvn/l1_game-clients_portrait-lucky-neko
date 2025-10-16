@@ -1,0 +1,13 @@
+
+decor-right.png
+size: 162,211
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blossom-right
+  rotate: false
+  xy: 2, 2
+  size: 158, 207
+  orig: 158, 207
+  offset: 0, 0
+  index: -1

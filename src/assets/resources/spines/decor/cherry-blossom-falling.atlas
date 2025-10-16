@@ -1,0 +1,76 @@
+
+cherry-blossom-falling.png
+size: 797,135
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sd_vfx_b_normal_00_00
+  rotate: true
+  xy: 708, 17
+  size: 116, 87
+  orig: 144, 144
+  offset: 12, 22
+  index: -1
+sd_vfx_b_normal_00_01
+  rotate: true
+  xy: 617, 16
+  size: 117, 89
+  orig: 144, 144
+  offset: 11, 24
+  index: -1
+sd_vfx_b_normal_00_02
+  rotate: true
+  xy: 525, 15
+  size: 118, 90
+  orig: 144, 144
+  offset: 11, 27
+  index: -1
+sd_vfx_b_normal_00_03
+  rotate: true
+  xy: 434, 13
+  size: 120, 89
+  orig: 144, 144
+  offset: 11, 28
+  index: -1
+sd_vfx_b_normal_00_04
+  rotate: true
+  xy: 347, 11
+  size: 122, 85
+  orig: 144, 144
+  offset: 11, 28
+  index: -1
+sd_vfx_b_normal_00_05
+  rotate: true
+  xy: 267, 9
+  size: 124, 78
+  orig: 144, 144
+  offset: 11, 30
+  index: -1
+sd_vfx_b_normal_00_06
+  rotate: true
+  xy: 197, 8
+  size: 125, 68
+  orig: 144, 144
+  offset: 12, 34
+  index: -1
+sd_vfx_b_normal_00_07
+  rotate: true
+  xy: 135, 6
+  size: 127, 60
+  orig: 144, 144
+  offset: 13, 39
+  index: -1
+sd_vfx_b_normal_00_08
+  rotate: true
+  xy: 73, 5
+  size: 128, 60
+  orig: 144, 144
+  offset: 13, 41
+  index: -1
+sd_vfx_b_normal_00_09
+  rotate: true
+  xy: 2, 2
+  size: 131, 69
+  orig: 144, 144
+  offset: 12, 37
+  index: -1

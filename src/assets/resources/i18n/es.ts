@@ -472,6 +472,10 @@ export const languages = {
         "total_bet": "Apuesta Total",
         "total_win": "Ganancia Total",
         "Unexpected_gift_code_error_message": "Se ha producido un error inesperado. Por favor, inténtelo de nuevo más tarde."
+    },
+    "LuckyNeko": {
+        "game_name": "Lucky Neko",
+        "game_icon_name": "Lucky Neko"
     }
 };
 
